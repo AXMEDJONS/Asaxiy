@@ -223,7 +223,7 @@ body {
 
 .rws::before {
   content: "";
-  background: url(../img/star_icon.svg) no-repeat, url(../img/star_icon.svg) 20px 0px no-repeat, url(../img/star_icon.svg) 40px 0px no-repeat, url(../img/star_icon.svg) 60px 0px no-repeat, url(../img/star_icon.svg) 80px 0px no-repeat;
+  background: url(../../img/star_icon.svg) no-repeat, url(../../img/star_icon.svg) 20px 0px no-repeat, url(../../img/star_icon.svg) 40px 0px no-repeat, url(../../img/star_icon.svg) 60px 0px no-repeat, url(../../img/star_icon.svg) 80px 0px no-repeat;
   background-size: 14px;
   width: 95px;
   height: 14px;
@@ -238,7 +238,7 @@ body {
 
 .rwc::before {
   content: "";
-  background: url(../img/comment_icon.svg) 0px 2px no-repeat;
+  background: url(../../img/comment_icon.svg) 0px 2px no-repeat;
   background-size: 14px;
   width: 18px;
   height: 14px;
@@ -315,7 +315,7 @@ body {
 
 .batc::before {
   content: "";
-  background: url(../img/cart_icon_white.png) 5px 7px no-repeat;
+  background: url(../../img/cart_icon_white.png) 5px 7px no-repeat;
   background-size: 20px;
   width: 30px;
   height: 35px;

@@ -8,44 +8,6 @@ body {
     user-select: none;
 }
 
-// Переменные
-// $color_1: green;
-// // Шаблоны
-// %tplborder{
-//     border-bottom: 5px dashed red;
-//     font-weight: 700;
-// }
-// .tplborder{
-//     border-bottom: 5px dashed green;
-//     font-weight: 500;
-// }
-// @mixin fontz($size, $weight){
-//     font-size: $size;
-//     font-weight: $weight;
-// }
-// .block{
-//     width: 300 / 960 * 100%;
-//     background-color: rgba(210, 105, 30, 0.2);
-
-// }
-// .link{
-//     @include fontz(50px, 700);
-//     color: $color_1;
-//     @extend %tplborder;
-// }
-// .link_2{
-//     @include fontz(40px, 500);
-//     color: $color_1;
-//     @extend .tplborder;
-// }
-
-
-
-
-
-
-
-
 $color_1: #fff;
 $color_2: #008DFF;
 
@@ -54,6 +16,7 @@ $color_2: #008DFF;
     background: $color_1;
     position: fixed;
     box-shadow: 0px 18px 33px -28px rgba(66, 68, 90, 1);
+    z-index: 1;
 }
 
 .th {
